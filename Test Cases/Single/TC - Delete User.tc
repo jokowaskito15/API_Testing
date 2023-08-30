@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Delete User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91936c5d-ab26-4977-a605-5a3be70ecfc5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33f304a1-72ef-47b6-94f8-cb50bd134953</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33f304a1-72ef-47b6-94f8-cb50bd134953</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

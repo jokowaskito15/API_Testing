@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Edit User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c724699-b23e-4869-99e2-d3176730272c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a442692d-6c6b-4d93-86c6-4c82cb46b9cb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a442692d-6c6b-4d93-86c6-4c82cb46b9cb</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
